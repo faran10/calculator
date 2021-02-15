@@ -1,0 +1,280 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2 {
+    color: black;
+    font-size: 30px;
+    font-family: 'Ramabhadra', sans-serif;
+    text-align: center;
+}
+.container {
+    border: 2px solid black;
+    background-color: grey;
+    width: 25%;
+    margin: auto;
+    margin-top: 40px;
+    box-shadow: 5px 10px 8px #555;
+    border-radius: 13px;
+    padding: 2% 0%;
+}
+.placeholder input {
+    margin-left: 32px;
+    height: 45px;
+    border: 2px solid white;
+    color: white;
+    font-size: 25px;
+    background-color: darkolivegreen;
+    border-radius: 6px;
+    box-shadow: 1px 2px 3px 2px black inset;
+    width: 83%;
+}
+.flex-container .red {
+   border: 2px solid white;
+   cursor: pointer;
+   color: white;
+   font-size: 15px;
+   background-color: red;
+   width: 15%;
+   height: 40px;
+   font-family: 'Ramabhadra', sans-serif;
+   border-radius: 8px;
+   margin-top: 20px;
+   margin-left: 35px;
+}
+.flex-container .per {
+    color: white;
+    background-color: #222222;
+    width: 15%;
+    height: 40px;
+    border: 2px solid white;
+    display: inline;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 20px;
+    margin-top: -2px;
+}
+.flex-container .sym {
+    color: white;
+    background-color: #222222;
+    width: 15%;
+    height: 40px;
+    border: 2px solid white;
+    display: inline;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 20px;
+    margin-top: -2px;   
+}
+.flex-container .sle {
+    color: white;
+    background-color: #222222;
+    width: 15%;
+    height: 40px;
+    border: 2px solid white;
+    display: inline;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 20px;
+    margin-top: -2px;
+}
+.flex-container1 {
+    display: inline;
+}
+.flex-container1 .sev {
+    color: white;
+    background-color: #222222;
+    width: 15%;
+    height: 40px;
+    border: 2px solid white;
+    display: inline;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+.flex-container1 .eig {
+    color: white;
+    background-color: #222222;
+    width: 15%;
+    height: 40px;
+    border: 2px solid white;
+    display: inline;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 20px;
+    margin-top: -2px;
+}
+.flex-container1 .nin {
+    color: white;
+    background-color: #222222;
+    width: 15%;
+    height: 40px;
+    border: 2px solid white;
+    display: inline;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 20px;
+    margin-top: -2px;
+}
+.flex-container1 .ste {
+    color: white;
+    background-color: #222222;
+    width: 15%;
+    height: 40px;
+    border: 2px solid white;
+    display: inline;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 20px;
+    margin-top: -2px;
+}
+.flex-container2 {
+    display: inline;
+}
+.flex-container2 .fou {
+    color: white;
+    background-color: #222222;
+    width: 15%;
+    height: 40px;
+    border: 2px solid white;
+    display: inline;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 35px;
+    margin-top: 20px;   
+}
+.flex-container2 .fiv {
+    color: white;
+    background-color: #222222;
+    width: 15%;
+    height: 40px;
+    border: 2px solid white;
+    display: inline;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 20px;
+    margin-top: -2px;
+}
+.flex-container2 .six {
+    color: white;
+    background-color: #222222;
+    width: 15%;
+    height: 40px;
+    border: 2px solid white;
+    display: inline;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 20px;
+    margin-top: -2px;
+}
+.flex-container2 .min {
+    color: white;
+    background-color: #222222;
+    width: 15%;
+    height: 40px;
+    border: 2px solid white;
+    display: inline;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 20px;
+    margin-top: -2px;
+}
+.flex-container3 {
+    display: inline;
+}
+.flex-container3 .one {
+    color: white;
+    background-color: #222222;
+    width: 15%;
+    height: 40px;
+    border: 2px solid white;
+    display: inline;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 35px;
+    margin-top: 20px;   
+}
+.flex-container3 .two {
+    color: white;
+    background-color: #222222;
+    width: 15%;
+    height: 40px;
+    border: 2px solid white;
+    display: inline;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 20px;
+    margin-top: px;
+}
+.flex-container3 .thr {
+    color: white;
+    background-color: #222222;
+    width: 15%;
+    height: 40px;
+    border: 2px solid white;
+    display: inline;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 20px;
+    margin-top: px;
+} 
+.plu button{
+    color: white;
+    background-color: #222222;
+    width: 15%;
+    height: 120px;
+    border: 2px solid white;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 258px;
+    margin-top: -39px;
+
+}
+.flex-container4 {
+    display: inline;
+}
+.flex-container4 .zero {
+    color: white;
+    background-color: #222222;
+    width: 15%;
+    height: 40px;
+    border: 2px solid white;
+    display: inline;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+.flex-container4 .dot {
+    color: white;
+    background-color: #222222;
+    width: 15%;
+    height: 40px;
+    border: 2px solid white;
+    display: inline;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 20px;
+    margin-top: px;
+}
+.flex-container4 .equ {
+    color: white;
+    background-color: #222222;
+    width: 15%;
+    height: 40px;
+    border: 2px solid white;
+    display: inline;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 20px;
+    margin-top: px;
+}
+
+h3 {
+    color: black;
+    font-size: 30px;
+    font-family: 'Ramabhadra', sans-serif;
+    text-align: center;
+}
